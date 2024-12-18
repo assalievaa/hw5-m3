@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Harry Potter",
+    "age": "12",
+    "image": "https://sm.ign.com/t/ign_nordic/cover/h/harry-pott/harry-potter-the-series_6khe.300.jpg"
+  },
+  {
+    "name": "Hermione Granger",
+    "age": "12",
+    "image": "https://i0.wp.com/thebookdragonchronicles.wordpress.com/wp-content/uploads/2016/04/hermionemovie1.jpg?w=494&h=686&ssl=1"
+  },
+  {
+    "name": "Ron Wisley",
+    "age": "12",
+    "image": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/11/Harry-Potter-Philosophers-stone-Ron-Weasley.jpeg"
+  }
+]
